@@ -6,3 +6,6 @@ if a > b:
 
 if b > a:
     print ('b is greater than a')        
+
+# you can also you print ("a is greater than b", a>b)
+#  which would give a ou/tput a is greater than b true/false
